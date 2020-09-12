@@ -1,5 +1,23 @@
 # Capstone_3 Proposals
 
+.....and the winner is... Line Remover. 
+
+
+
+669 unruled boat images
+454 with ruled lines
+
+Initial plan (#3 and 4 are stretch goals):
+
+1. create lines on previously unruled images, this will be X (unruled images will be the target)
+2. create autoencoder to remove lines
+3. test on ruled images, test on images with different kinds of lines
+4. create flask app to demonstrate 
+5. allow users to upload lined image and have it remove lines?
+
+
+
+
 
 1. Profile Analyzer: using microexpression data from here: https://www.oulu.fi/cmvs/node/33019
 create a profile image analyzer to classify different expression, then creak a flask app that utilizes the model to classify an image that would be uploaded by the user. I have requested the SPOS, and SRIC database from xiaobai.li@oulu.fi by email. 
